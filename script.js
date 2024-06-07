@@ -47,12 +47,12 @@ function initializeQuiz(userName) {
 const questions = [
   {
     "question": "I have made assumptions about customers of fellow employees that have been proven wrong",
-    "answer1": "Yes",
+    "answer1": "No",
     "answer1Total": "1",
    
     // add extra thing into here if time...then do an onclick event
 
-    "answer2": "No",
+    "answer2": "Yes",
     "answer2Total": "2",
     // "answer3": "Afternoon",
     // "answer3Total": "3",
@@ -61,10 +61,10 @@ const questions = [
   },
   {
     "question": "Even if I don't say anything I sometimes judge others by how they look or what they're wearing",
-    "answer1": "Yes",
+    "answer1": "No",
     "answer1Total": "1",
 
-    "answer2": "No",
+    "answer2": "Yes",
     "answer2Total": "2",
     // "answer3": "Words of Affirmation",
     // "answer3Total": "3",
@@ -76,10 +76,10 @@ const questions = [
   {
     "question":
       "I often look or reply to messages on my phone when I am with others.",
-      "answer1": "Yes",
+      "answer1": "No",
       "answer1Total": "1",
   
-      "answer2": "No",
+      "answer2": "Yes",
       "answer2Total": "2",
     // "answer3": "Winter",
     // "answer3Total": "3",
@@ -89,10 +89,10 @@ const questions = [
   },
   {
     "question": "I tend to botch foreign names so I just shorten them to make things easier.",
-    "answer1": "Yes",
+    "answer1": "No",
     "answer1Total": "1",
 
-    "answer2": "No",
+    "answer2": "Yes",
     "answer2Total": "2",
   //   "answer3":
   //     "Air(Aquarius,Libra,Gemini)",
@@ -103,10 +103,10 @@ const questions = [
   },
   {
     "question": "I consider myself 'color blind'.",
-    "answer1": "Yes",
+    "answer1": "No",
     "answer1Total": "1",
 
-    "answer2": "No",
+    "answer2": "Yes",
     "answer2Total": "2",
     // "answer3": "Snowing",
     // "answer3Total": "3",
@@ -118,10 +118,10 @@ const questions = [
 
   {
     "question": "I get along with everyone-I mean we're all pretty much the same.",
-    "answer1": "Yes",
+    "answer1": "No",
     "answer1Total": "1",
 
-    "answer2": "No",
+    "answer2": "Yes",
     "answer2Total": "2",
     // "answer3": "Snowing",
     // "answer3Total": "3",
@@ -135,10 +135,10 @@ const questions = [
 
   {
     "question": "I tell my coworkers from other countries that they speak english very well.",
-    "answer1": "Yes",
+    "answer1": "No",
     "answer1Total": "1",
 
-    "answer2": "No",
+    "answer2": "Yes",
     "answer2Total": "2",
     // "answer3": "Snowing",
     // "answer3Total": "3",
@@ -154,10 +154,10 @@ const questions = [
 
   {
     "question": "I have complimented a minority coworker on their intelligence.",
-    "answer1": "Yes",
+    "answer1": "No",
     "answer1Total": "1",
 
-    "answer2": "No",
+    "answer2": "Yes",
     "answer2Total": "2",
     // "answer3": "Snowing",
     // "answer3Total": "3",
@@ -167,10 +167,10 @@ const questions = [
 
   {
     "question": "I have commented on someone else's body or appearance to that person or others (including compliments)",
-    "answer1": "Yes",
+    "answer1": "No",
     "answer1Total": "1",
 
-    "answer2": "No",
+    "answer2": "Yes",
     "answer2Total": "2",
     // "answer3": "Snowing",
     // "answer3Total": "3",
@@ -183,10 +183,10 @@ const questions = [
 
   {
     "question": "At work I always use the same locker.",
-    "answer1": "Yes",
+    "answer1": "No",
     "answer1Total": "1",
 
-    "answer2": "No",
+    "answer2": "Yes",
     "answer2Total": "2",
     // "answer3": "Snowing",
     // "answer3Total": "3",
